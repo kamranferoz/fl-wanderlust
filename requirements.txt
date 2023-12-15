@@ -1,4 +1,5 @@
 # solara==1.22
-solara @ https://github.com/widgetti/solara/archive/refs/heads/master.zip
+# solara @ https://github.com/widgetti/solara/archive/refs/heads/master.zip
 openai
-ipyleaflet==0.17.2
+# ipyleaflet==0.17.2
+Flask==3.0.0
